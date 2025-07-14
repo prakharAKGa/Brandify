@@ -43,9 +43,7 @@ Brandify is a powerful **Flutter-based mobile application** designed to simplify
 
 | Home Screen | Prompt Page | Generated Image | Post Idea | Share Page |
 |-------------|--------------|-------------------|-----------|------------|
-| <img width="180" src="https://github.com/user-attachments/assets/528e8697-dcad-46d5-bd4b-b33d222b8cea" /> | <img width="180" src="https://github.com/user-attachments/assets/7c767025-dc16-4eb1-b09a-7304236b9727" /> | <img width="180" src="https://github.com/user-attachments/assets/d4734aed-6eba-4c64-9821-a1d2330177ce" /> | <img width="180" src="https://github.com/user-attachments/assets/256399f3-4f4f-4d1d-8537-6648bc5af0aa" /> |  
-
-<img width="360" height="800" alt="details 14" src="https://github.com/user-attachments/assets/a8617163-bf67-4e9e-8e8c-87535b242ece" />|
+| <img width="180" src="https://github.com/user-attachments/assets/528e8697-dcad-46d5-bd4b-b33d222b8cea" /> | <img width="180" src="https://github.com/user-attachments/assets/7c767025-dc16-4eb1-b09a-7304236b9727" /> | <img width="180" src="https://github.com/user-attachments/assets/d4734aed-6eba-4c64-9821-a1d2330177ce" /> | <img width="180" src="https://github.com/user-attachments/assets/256399f3-4f4f-4d1d-8537-6648bc5af0aa" /> | <img width="360" height="800" alt="details 14" src="https://github.com/user-attachments/assets/a8617163-bf67-4e9e-8e8c-87535b242ece" /> |
 
 
 
