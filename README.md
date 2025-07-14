@@ -39,16 +39,14 @@ Brandify is a powerful **Flutter-based mobile application** designed to simplify
 
 ## 📸 Screenshots
 
+
+
 | Home Screen | Image Upload | Generated Caption | Post Idea | Share Page |
 |-------------|--------------|-------------------|-----------|------------|
-| <img width="360" height="800" alt="Group 10" src="https://github.com/user-attachments/assets/528e8697-dcad-46d5-bd4b-b33d222b8cea" />
- | ![Up<img width="360" height="800" alt="details 11 (1)" src="https://github.com/user-attachments/assets/7c767025-dc16-4eb1-b09a-7304236b9727" />
-load]() | ![Caption](<img width="360" height="800" alt="details 11 (1)" src="https://github.com/user-attachments/assets/99a649be-df0f-4ead-9cf7-774cf54170fd" />
-) | ![Idea](<img width="360" height="1000" alt="post 2 2" src="https://github.com/user-attachments/assets/256399f3-4f4f-4d1d-8537-6648bc5af0aa" />
-) | ![Share]<img width="360" height="800" alt="image 2 (1)" src="https://github.com/user-attachments/assets/d4734aed-6eba-4c64-9821-a1d2330177ce" />
-() |
+| <img width="180" src="https://github.com/user-attachments/assets/528e8697-dcad-46d5-bd4b-b33d222b8cea" /> | <img width="180" src="https://github.com/user-attachments/assets/7c767025-dc16-4eb1-b09a-7304236b9727" /> | <img width="180" src="https://github.com/user-attachments/assets/99a649be-df0f-4ead-9cf7-774cf54170fd" /> | <img width="180" src="https://github.com/user-attachments/assets/256399f3-4f4f-4d1d-8537-6648bc5af0aa" /> | <img width="180" src="https://github.com/user-attachments/assets/d4734aed-6eba-4c64-9821-a1d2330177ce" /> |
 
-> 📁 Place your screenshots in the `/screenshots` directory.
+
+
 
 ---
 
