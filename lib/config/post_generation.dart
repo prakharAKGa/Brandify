@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class HuggingFaceService {
-   static const String _apiKey = String.fromEnvironment('_apiKey');// Replace with your actual API key
-  static const String _apiUrl = String.fromEnvironment('_apiUrl');
+   static const String _apiKey = '';// Replace with your actual API key
+  static const String _apiUrl = '';
   static Future<List<String>> generateIdeas(String category, String keywords) async {
     try {
       final response = await http.post(
